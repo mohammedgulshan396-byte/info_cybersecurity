@@ -13,11 +13,12 @@
 - Reinforcement learning: Adaptive response systems  
 
 ### Applications of AI in Threat Detection
-- Email phishing detection using NLP
+- Email phishing detection using NLP  
 - Behavior-based endpoint protection  
 - Network traffic anomaly detection (IDS/IPS enhancement)  
 - User and Entity Behavior Analytics (UEBA)
-- ### AI-Powered Tools & Platforms
+
+  ### AI-Powered Tools & Platforms
 - IBM QRadar Advisor with Watson  
 - Darktrace (AI for network anomaly detection)  
 - CrowdStrike Falcon (AI endpoint protection)  
